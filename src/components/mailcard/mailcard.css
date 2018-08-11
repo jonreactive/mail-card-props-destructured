@@ -1,0 +1,22 @@
+.card-container {
+  margin-top: 50px;
+}
+
+.card {
+  height: 400px;
+}
+
+.middle-card-text {
+  margin-top: 150px;
+}
+
+.stamp {
+  margin-left: auto;
+  border: 2px solid #ccc;
+  width: 70px;
+  min-height: 50px;
+  padding: 10px;
+  font-family: "Helvetica", arial, sans-serif; font-size: 14px;
+  background-image: url('http://www.birds.com/wp-content/uploads/home/bird4.jpg');
+  
+}
